@@ -1,2 +1,1 @@
-# My-Second-project
-This is my second project on GitHub
+Executed an extensive SQL-based data analysis project on a comprehensive Airline Database, applying advanced querying techniques to uncover business insights and operational patterns. Leveraged relational database schemas to write complex, optimized SQL queries that demonstrated practical understanding of data wrangling, aggregation, joins, subqueries, CTEs, ranking functions, and date/time transformations.
